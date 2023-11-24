@@ -1,0 +1,12 @@
+{
+  "name": "sahna-standup-back",
+  "version": "1.0.0",
+  "description": "sahna stand-up uchun online bar",
+  "main": "index.js",
+  "author": "azamat-azadov",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "sequelize": "^6.35.1"
+  }
+}
